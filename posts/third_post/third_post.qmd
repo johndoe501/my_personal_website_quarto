@@ -1,0 +1,23 @@
+---
+title: "Third post"
+description: "Some description"
+author: "Big Head"
+date: "5/22/2023"
+categories:
+  - news
+---
+
+## Header Level 2
+
+My third post!
+
+```{r}
+1+1
+```
+
+Some more code:
+
+```{r}
+plot(mtcars$mpg, mtcars$wt)
+```
+

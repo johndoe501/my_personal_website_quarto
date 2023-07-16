@@ -1,0 +1,6 @@
+---
+title: "My personal image collection"
+image: https://media.giphy.com/media/3gEFiAYiHJJCg/giphy.gif
+---
+
+Some content

@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Nelson Bighetti",
     "section": "",
-    "text": "My awesome website!"
+    "text": "Nelson “Big Head” Bighetti is of Italian heritage and was raised in Arizona. He attended Arizona State University for 5 years before dropping out. He is the best friend of Richard, who he formerly lived and worked with in the Hacker Hostel (an incubator owned by Erlich) with Gilfoyle and Dinesh. He admittedly isn’t great at any one aspect of building sites or coding, but Big Head is considered more of a jack of all trades.\nNelson is a competent enough software developer to maintain a low-level job at Hooli, but does not bring any exceptional skill to cutting-edge projects such as Pied Piper, which causes a mismatch with his genius-level coworkers. Source 1. Source 2."
   },
   {
     "objectID": "about.html",
@@ -109,7 +109,7 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Another post\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\nPost description\n\n\n\n\n\n\nMay 22, 2022\n\n\nBig Head\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\nPost description\n\n\n\n\n\n\nMay 22, 2021\n\n\nBig Head\n\n\n\n\n\n\nNo matching items"
+    "text": "Another post\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\nPost description\n\n\n\n\n\n\nMay 22, 2022\n\n\nBig Head\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\nPost description\n\n\n\n\n\n\nMay 22, 2021\n\n\nBig Head\n\n\n\n\n\n\n  \n\n\n\n\nThird post\n\n\n\n\n\n\n\nnews\n\n\n\n\nSome description\n\n\n\n\n\n\nMay 22, 2023\n\n\nBig Head\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/first_post.html",
@@ -152,5 +152,75 @@
     "title": "Another post",
     "section": "",
     "text": "My second post!"
+  },
+  {
+    "objectID": "EXTRAS/index2.html",
+    "href": "EXTRAS/index2.html",
+    "title": "Nelson Bighetti",
+    "section": "",
+    "text": "Nelson “Big Head” Bighetti is of Italian heritage and was raised in Arizona. He attended Arizona State University for 5 years before dropping out. He is the best friend of Richard, who he formerly lived and worked with in the Hacker Hostel (an incubator owned by Erlich) with Gilfoyle and Dinesh. He admittedly isn’t great at any one aspect of building sites or coding, but Big Head is considered more of a jack of all trades.\nNelson is a competent enough software developer to maintain a low-level job at Hooli, but does not bring any exceptional skill to cutting-edge projects such as Pied Piper, which causes a mismatch with his genius-level coworkers. Source 1. Source 2."
+  },
+  {
+    "objectID": "EXTRAS/index1.html",
+    "href": "EXTRAS/index1.html",
+    "title": "Nelson Bighetti",
+    "section": "",
+    "text": "Nelson “Big Head” Bighetti is of Italian heritage and was raised in Arizona. He attended Arizona State University for 5 years before dropping out. He is the best friend of Richard, who he formerly lived and worked with in the Hacker Hostel (an incubator owned by Erlich) with Gilfoyle and Dinesh. He admittedly isn’t great at any one aspect of building sites or coding, but Big Head is considered more of a “jack of all trades.” Nelson is a competent enough software developer to maintain a low-level job at Hooli, but does not bring any exceptional skill to cutting-edge projects such as Pied Piper, which causes a mismatch with his genius-level coworkers. Source 1. Source 2."
+  },
+  {
+    "objectID": "EXTRAS/index3.html",
+    "href": "EXTRAS/index3.html",
+    "title": "Nelson Bighetti",
+    "section": "",
+    "text": "Nelson “Big Head” Bighetti is of Italian heritage and was raised in Arizona. He attended Arizona State University for 5 years before dropping out. He is the best friend of Richard, who he formerly lived and worked with in the Hacker Hostel (an incubator owned by Erlich) with Gilfoyle and Dinesh. He admittedly isn’t great at any one aspect of building sites or coding, but Big Head is considered more of a jack of all trades.\nNelson is a competent enough software developer to maintain a low-level job at Hooli, but does not bring any exceptional skill to cutting-edge projects such as Pied Piper, which causes a mismatch with his genius-level coworkers. Source 1. Source 2."
+  },
+  {
+    "objectID": "EXTRAS/index3.html#interests",
+    "href": "EXTRAS/index3.html#interests",
+    "title": "Nelson Bighetti",
+    "section": "Interests",
+    "text": "Interests\n\nBig drinks\nAlways Blue!\nStanford\nHelping Richard"
+  },
+  {
+    "objectID": "EXTRAS/index3.html#education",
+    "href": "EXTRAS/index3.html#education",
+    "title": "Nelson Bighetti",
+    "section": "Education",
+    "text": "Education\n\nPh.D. Computer Science\nUniversity of University, City, Country\nM.Sc Computer Science\nUniversity of University, City, Country\nB.Sc Computer Science\nUniversity of University, City, Country"
+  },
+  {
+    "objectID": "EXTRAS/index3.html#notes",
+    "href": "EXTRAS/index3.html#notes",
+    "title": "Nelson Bighetti",
+    "section": "NOTES:",
+    "text": "NOTES:\n\nAvailable themes\n\nBasic Options"
+  },
+  {
+    "objectID": "collection.html",
+    "href": "collection.html",
+    "title": "Image Collection",
+    "section": "",
+    "text": "My personal image collection\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "imagez/collection1.html",
+    "href": "imagez/collection1.html",
+    "title": "My personal image collection",
+    "section": "",
+    "text": "Some content"
+  },
+  {
+    "objectID": "posts/third_post/third_post.html",
+    "href": "posts/third_post/third_post.html",
+    "title": "Third post",
+    "section": "",
+    "text": "My third post!\n\n1+1\n\n[1] 2\n\n\nSome more code:\n\nplot(mtcars$mpg, mtcars$wt)"
+  },
+  {
+    "objectID": "posts/third_post/third_post.html#header-level-2",
+    "href": "posts/third_post/third_post.html#header-level-2",
+    "title": "Third post",
+    "section": "",
+    "text": "My third post!\n\n1+1\n\n[1] 2\n\n\nSome more code:\n\nplot(mtcars$mpg, mtcars$wt)"
   }
 ]

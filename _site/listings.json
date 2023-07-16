@@ -10,7 +10,14 @@
     "listing": "/blog.html",
     "items": [
       "/posts/second_post/Second_post.html",
-      "/posts/first_post/first_post.html"
+      "/posts/first_post/first_post.html",
+      "/posts/third_post/third_post.html"
+    ]
+  },
+  {
+    "listing": "/collection.html",
+    "items": [
+      "/imagez/collection1.html"
     ]
   }
 ]

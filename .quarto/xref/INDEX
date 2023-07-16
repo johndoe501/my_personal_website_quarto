@@ -34,5 +34,23 @@
   },
   "posts/second_post/Second_post.qmd": {
     "Second_post.html": "f4b4fcdb"
+  },
+  "EXTRAS/index1.qmd": {
+    "index1.html": "b68f5d24"
+  },
+  "EXTRAS/index2.qmd": {
+    "index2.html": "d9cf7ef5"
+  },
+  "EXTRAS/index3.qmd": {
+    "index3.html": "1ad91808"
+  },
+  "collection.qmd": {
+    "collection.html": "6cb4725a"
+  },
+  "imagez/collection1.qmd": {
+    "collection1.html": "eae9decd"
+  },
+  "posts/third_post/third_post.qmd": {
+    "third_post.html": "5532ad42"
   }
 }
